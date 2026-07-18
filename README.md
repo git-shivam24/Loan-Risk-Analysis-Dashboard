@@ -13,7 +13,7 @@ An executive-ready Power BI dashboard designed to analyze credit risk, underwrit
 ---
 
 ## 📸 Dashboard Interface
-
+![image alt](https://github.com/git-shivam24/Loan-Risk-Analysis-Dashboard/blob/e417f02bf5ad86f18b601462a95c77b97d58607a/Screenshot%202026-07-18%20084716.png)
 
 ---
 
