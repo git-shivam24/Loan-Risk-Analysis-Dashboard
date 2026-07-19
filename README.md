@@ -1,3 +1,4 @@
+
 # Loan-Risk-Analysis-Dashboard
 Loan risk and capital analytics dashboard
 # End-to-End Loan Risk & Capital Analytics Dashboard
@@ -13,8 +14,7 @@ An executive-ready Power BI dashboard designed to analyze credit risk, underwrit
 ---
 
 ## 📸 Dashboard Interface
-![image alt](https://github.com/git-shivam24/Loan-Risk-Analysis-Dashboard/blob/e417f02bf5ad86f18b601462a95c77b97d58607a/Screenshot%202026-07-18%20084716.png)
-
+![image alt]<img width="836" height="470" alt="Screenshot 2026-07-18 105907" src="https://github.com/user-attachments/assets/f51d67a0-0d6f-4099-a95e-2f3036895ed9" />
 ---
 
 ## 🧠 Key Data Insights
